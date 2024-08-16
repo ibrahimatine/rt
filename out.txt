@@ -1,3 +1,0 @@
-//le lien de la documentation
-
-//https://the-ray-tracing-road-to-rust.vercel.app/appendix/a-fearless-parallelism-with-rayon
